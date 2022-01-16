@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+作用：职教云网课系统课程自动评价
+时间：2022-01-09
+作者：LittleBlackMouse
+"""
 import os
 import pprint
 import requests
